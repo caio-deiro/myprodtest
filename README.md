@@ -1,6 +1,14 @@
 # Teste para vaga dev. Freelancer Flutter - MyProd
 Este repositório tem como fim testar os candidatos para vaga dev. Flutter Junior no projeto MyProd.
 
+## O que usei no meu teste:
+* Getx para gerencia de estado e injeção de dependencia
+* Projeto no padrão arquitetural MVC, devido ao seu tamanho, não necessita de muitas camadas.
+* Dio para buscar dados da API
+
+## O que precisa fazer para rodar o projeto:
+* Clone com https
+* Abrir emulador e rodar o projeto (F5)
 
 ## Instruções Básicas
 1. Faça um fork deste repositório
